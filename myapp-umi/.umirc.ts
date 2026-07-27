@@ -16,4 +16,8 @@ export default defineConfig({
       pathRewrite: { '^/api': '' },
     },
   },
+
+  antd: {
+    // mobile: false,
+  },
 });
